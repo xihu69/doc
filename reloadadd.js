@@ -1,5 +1,5 @@
-export default function add(){
-  console.log(1111)
+
+  console.log("aaa1111")
   let md=window.document.querySelector('.ai-modal-wrap')
   if(md) //md.textContent,css.display: none;
   {md.hidden=true;
@@ -35,4 +35,4 @@ window.document.addEventListener("DOMContentLoaded", (event) => {
   
 });
 console.log(2222)
-}
+
